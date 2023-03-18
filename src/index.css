@@ -1,0 +1,22 @@
+*{
+    margin-top:0;
+    padding-top: 0;
+}
+.mx-5 {
+    margin-right: 14rem!important;
+    margin-left: 11rem!important;
+}
+
+.py-3{
+    padding-top: 23px;
+}
+
+.searchbar{
+    margin-left: 580px;
+    /* float: right; */
+    background-color: #676fae;
+}
+.navbaar{
+    display: flex;
+    
+}
