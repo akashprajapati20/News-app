@@ -1,3 +1,20 @@
+this project cant be deployed as the news api used does not support that.
+so you must create your own api key and use that but making a id on newsapi.org
+
+![news1](https://user-images.githubusercontent.com/92972992/226362995-1893fcf2-ebf5-48c7-8e91-5610f9136d95.PNG)
+the interface looks like this shown in the picture below
+![news2](https://user-images.githubusercontent.com/92972992/226363031-380ef74c-6cc5-48f8-ab1f-26408393b106.PNG)
+
+
+
+
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
