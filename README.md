@@ -1,5 +1,5 @@
 this project cant be deployed as the news api used does not support that.
-so you must create your own api key and use that but making a id on newsapi.org
+so you must create your own api key and use that by making a id on newsapi.org and after cloning edit or change the apiKey .
 
 ![news1](https://user-images.githubusercontent.com/92972992/226362995-1893fcf2-ebf5-48c7-8e91-5610f9136d95.PNG)
 the interface looks like this shown in the picture below
